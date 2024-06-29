@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 Currently working on GeoQuery.in & SuperFaaS.<br>
-👯 I'm looking forward to collaborating on interesting project ideas, especially those involving full-stack development, data engineering, and cloud infrastructure.<br>
+👯 I'm looking forward to collaborating on interesting project ideas, involving full-stack development, data engineering, and cloud infrastructure.<br>
 🌱 Currently learning Go, Kubernetes, and CI/CD practices.<br>
 💬 Ask me about FullStack Development, Python, and backend optimizations.<br>
 ⚡ Reached 100+ PRs on GitHub.<br>
@@ -75,7 +75,7 @@
 
 # 📊 GitHub Stats:
   
-![](https://github-readme-stats.vercel.app/api?username=35C4n0r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=35C4n0r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=35C4n0r&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=35C4n0r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
